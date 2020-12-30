@@ -4,7 +4,7 @@
     <groupId>com.ci.jenkins</groupId>
     <artifactId>projectRnD</artifactId>
     <version>1.1</version>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <name>Project Build</name>
 
     <modules>
